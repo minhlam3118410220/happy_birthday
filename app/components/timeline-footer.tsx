@@ -49,7 +49,7 @@ const TimelineFooter = () => {
     >
       <motion.div variants={textVariants}>
         <Typography variant={isSmallScreen ? 'smallText' : 'p'}>
-          Made with ❤️ by your boyfriend
+          Made with ❤️ by your boyfriend - Koi
         </Typography>
       </motion.div>
       <motion.div variants={textVariants}>
