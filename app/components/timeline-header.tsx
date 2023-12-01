@@ -87,7 +87,7 @@ const TimelineHeader = () => {
               'text-center font-bold uppercase tracking-wider !leading-tight z-10 stroke-2',
             )}
           >
-            CamNhung&#39;s <br /> Birthday Celebration
+            BaoChau&#39;s <br /> Birthday Celebration
           </Typography>
         </motion.div>
       </motion.div>

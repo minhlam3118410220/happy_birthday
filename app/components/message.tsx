@@ -45,7 +45,7 @@ const Message = ({ message, onExitComplete }: Props) => {
           >
             <Card className={'bg-primary/40'}>
               <CardContent className={'pt-6'}>
-                <Typography variant={isSmallScreen ? 'h4' : 'h2'} className={'text-center'}>{message}</Typography>
+                <Typography variant={isSmallScreen ? 'h4' : 'h5'} className={'text-center'}>{message}</Typography>
               </CardContent>
             </Card>
           </motion.div>

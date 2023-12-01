@@ -49,7 +49,7 @@ const TimelineFooter = () => {
     >
       <motion.div variants={textVariants}>
         <Typography variant={isSmallScreen ? 'smallText' : 'p'}>
-          Made with ❤️ by your boyfriend - Koi
+          Made with ❤️ by your boyfriend
         </Typography>
       </motion.div>
       <motion.div variants={textVariants}>
@@ -58,7 +58,7 @@ const TimelineFooter = () => {
         </Typography>
       </motion.div>
       <motion.div variants={textVariants}>
-        <Typography variant={isSmallScreen ? 'smallText' : 'p'}>
+        <Typography variant={isSmallScreen ? 'smallText' : 'p'} className='text-center'>
           If you love this, please inbox me and say &#34;Em yêu anh ❤️&#34;
         </Typography>
       </motion.div>
